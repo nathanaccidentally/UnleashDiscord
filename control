@@ -1,0 +1,9 @@
+Package: com.nathanaccidentally.unleashdiscord
+Name: UnleashDiscord
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add the Discord color palette to the Settings app!
+Maintainer: nathanaccidentally <nathanaccidentally@gmail.com>
+Author: nathanaccidentally <nathanaccidentally@gmail.com>
+Section: Tweaks
